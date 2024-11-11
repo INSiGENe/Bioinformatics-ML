@@ -4,7 +4,7 @@
 This dashboard presents the results of a decision tree model classifying gene expression data into two subtypes. The model was trained on synthetic gene expression data with realistic biological variation patterns.
 
 ## Decision Tree Visualization
-![Decision Tree](evaluation/decision_tree.png)
+![Decision Tree](../evaluation/decision_tree.png)
 
 ## Model Performance
 
@@ -82,4 +82,4 @@ The model was trained on gene expression data with the following characteristics
 - ROC curve analysis using yardstick package
 
 ---
-*Dashboard generated on: `r format(Sys.time(), "%Y-%m-%d %H:%M:%S")`*
+*Dashboard generated on: 11/11/2024*
