@@ -1,0 +1,9 @@
+.metric,.estimator,.estimate,dataset
+accuracy,binary,0.98,Training
+precision,binary,0.9615384615384616,Training
+recall,binary,1,Training
+f_meas,binary,0.9803921568627451,Training
+accuracy,binary,0.94,Test
+precision,binary,0.8928571428571429,Test
+recall,binary,1,Test
+f_meas,binary,0.9433962264150945,Test
