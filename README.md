@@ -4,7 +4,7 @@ A repository that introduces concepts of machine learning for bioinformatics in 
 
 ## Table of Contents
 
-- 01-Decision-Tree
+- [01-Decision-Tree](summaries/01-Decision-Tree.md)
 
 
 ## Author
