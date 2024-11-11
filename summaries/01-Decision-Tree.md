@@ -4,23 +4,23 @@
 This dashboard presents the results of a decision tree model classifying gene expression data into two subtypes. The model was trained on synthetic gene expression data with realistic biological variation patterns.
 
 ## Decision Tree Visualization
-![Decision Tree](decision_tree.png)
+![Decision Tree](evaluation/decision_tree.png)
 
 ## Model Performance
 
 ### Training Set Performance
 #### Confusion Matrix
-![Training Confusion Matrix](train_confusion_matrix.png)
+![Training Confusion Matrix](../evaluation/train_confusion_matrix.png)
 
 #### ROC Curve
-![Training ROC Curve](train_roc_curve.png)
+![Training ROC Curve](../evaluation/train_roc_curve.png)
 
 ### Test Set Performance
 #### Confusion Matrix
-![Test Confusion Matrix](test_confusion_matrix.png)
+![Test Confusion Matrix](../evaluation/test_confusion_matrix.png)
 
 #### ROC Curve
-![Test ROC Curve](test_roc_curve.png)
+![Test ROC Curve](../evaluation/test_roc_curve.png)
 
 ## Performance Metrics
 
