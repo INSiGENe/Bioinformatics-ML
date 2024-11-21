@@ -8,12 +8,11 @@ renv::init(bioconductor = TRUE)
 
 #--- Install packages
 renv::install(c("tidymodels",
-                "rpart.plot",
                 "vip",
-                "GEOquery",
                 "tidyverse",
-                "viridis",
-                "gt"))
+                "TCGAbiolinks",
+                "DESeq2",
+                "xgboost"))
 
 #--- Snapshot
 renv::snapshot()
